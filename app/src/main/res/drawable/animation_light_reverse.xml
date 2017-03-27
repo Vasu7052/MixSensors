@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/rproximity10" android:duration="100" />
+    <item android:drawable="@drawable/rproximity08" android:duration="100" />
+    <item android:drawable="@drawable/rproximity06" android:duration="100" />
+    <item android:drawable="@drawable/rproximity04" android:duration="100" />
+    <item android:drawable="@drawable/rproximity02" android:duration="100" />
+    <item android:drawable="@drawable/rproximity00" android:duration="100" />
+</animation-list>
